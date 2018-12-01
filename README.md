@@ -1,10 +1,4 @@
-**[<font size=7> Chinar Blog](http://www.chinar.xin "跳转到 Chinar 博客")**
-
-----------
 # Unity UGUI Infinite Scroll View
-
-----------
-
 ##  无限滚动UI
 
 ----------
@@ -24,13 +18,10 @@ UGUI Scroll View 无限滚动
 **<font color=#FF1493 face="微软雅黑" size=4> Unity Version : Visual Studio 2018.2.14f </font>**
 
 ----------
-
 <center>
 <img src="https://github.com/ChinarG/TUTORIAL--GitHub/blob/master/Head%20Portrait/Chinar%E9%9D%92%E8%89%B2.png?raw=true" width="11%" height="11%" $ $ />
 </center>
 
+[<font size=7> Chinar Blog](http://www.chinar.xin "Link to Chinar Blog")
 
-**Chinar**
-
-----------
 
